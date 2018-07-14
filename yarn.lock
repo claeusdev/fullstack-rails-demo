@@ -5752,6 +5752,10 @@ quick-lru@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-1.1.0.tgz#4360b17c61136ad38078397ff11416e186dcfbb8"
 
+rails-ujs@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/rails-ujs/-/rails-ujs-5.2.0.tgz#d93f7a969a226c0ae67044172955be8c1cdf49fc"
+
 randomatic@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/randomatic/-/randomatic-3.0.0.tgz#d35490030eb4f7578de292ce6dfb04a91a128923"
@@ -7029,6 +7033,10 @@ tunnel-agent@^0.6.0:
   resolved "https://registry.yarnpkg.com/tunnel-agent/-/tunnel-agent-0.6.0.tgz#27a5dea06b36b04a0a9966774b290868f0fc40fd"
   dependencies:
     safe-buffer "^5.0.1"
+
+turbolinks@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/turbolinks/-/turbolinks-5.1.1.tgz#3d418a2d8172edbde5e787bf74cb7bef151ae43f"
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
